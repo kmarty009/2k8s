@@ -1,8 +1,8 @@
 ### SETUP SCRIPT FOR TWO K8S CLUSTERS ON DC/OS ("2k8s") 
-Revision 12-10-18
+Revision 03-01-2019
 
-This is a script for Enterprise DC/OS 1.12 that will setup two Kubernetes clusters  
-This script has only been tested on OSX with DC/OS 1.12.0 Enterprise Edition  
+This is a script for Enterprise DC/OS 1.12.2 that will setup two Kubernetes clusters  
+This script has only been tested on OSX with DC/OS 1.12.2 Enterprise Edition.  I have made some additional enhancements that will run K8's with Portworx too.    
 
 This script will:
 
